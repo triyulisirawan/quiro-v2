@@ -388,7 +388,7 @@ export default function App() {
               className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-black py-5 px-8 rounded-2xl shadow-xl shadow-indigo-200 transform transition-all active:scale-95 flex items-center justify-center gap-3 text-xl border-b-4 border-indigo-800"
             >
               <RefreshCw className="w-6 h-6" />
-              MAIN LAGI
+              SCAN LAGI
             </button>
           </motion.div>
         )}
