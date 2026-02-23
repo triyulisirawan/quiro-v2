@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Monopoli QUIRO",
+  "description": "Quiz Randomization and Organizer application connected to Google Sheets",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
